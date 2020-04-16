@@ -6,4 +6,8 @@ Proyecto de FCTs enfocado en la gestión de un hogar, teniendo en cuenta algunos
 - Gastos.
 - Recetarios.
 
-En construcción.
+Usando las siguientes tecnologías:
+
+- ReactJS para la parte front-end.
+- NodeJS del lado back-end.
+- MySQL 8 como gestor de base de datos.
