@@ -1,13 +1,15 @@
-# Home Project
+# Beer Homecraft Project
 
-Proyecto de FCTs enfocado en la gestión de un hogar, teniendo en cuenta algunos factores como:
+Proyecto final de clase enfocado a la elaboración de cerveza artesanal con diversas herramientas:
 
-- Entrada y salida de productos (alimentarios, limpieza, etc...).
-- Gastos.
-- Recetarios.
+- Recetas.
+- Calculadora de recetas.
+- Organización de eventos.
 
 Usando las siguientes tecnologías:
 
 - ReactJS para la parte front-end.
 - NodeJS del lado back-end.
 - MySQL 8 como gestor de base de datos.
+
+La finalidad de esta proyecto es fomentar la cultura cervecera así como su elaboración explorando diversas técnicas y recibiendo feedback de la comunidad que conforme el proyecto.
